@@ -1,14 +1,14 @@
 {
     "ip": "katyty.aternos.me",
     "port": "56074",
-    "name": "kartik",
+    "name": "BySerwerZyl",
     "password": "",
     "auto-night-skip": "false",
     "prefix": "",
-    "login-enabled": "false",
-    "register-cmd": "/login kartikopp kartikopp",
-    "login-cmd": "/login kartikopp",
-    "loginmsg": "done",
+    "login-enabled": "true",
+    "register-cmd": "/register zycieserwera zycieserwera",
+    "login-cmd": "/login zycieserwera",
+    "loginmsg": "Zalogowano",
     "auto-reconnect": "true",
     "web": "true"
     
